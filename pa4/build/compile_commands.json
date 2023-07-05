@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/seed/Computer Graphics/pa4/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.o -c \"/home/seed/Computer Graphics/pa4/main.cpp\"",
+  "file": "/home/seed/Computer Graphics/pa4/main.cpp"
+}
+]
