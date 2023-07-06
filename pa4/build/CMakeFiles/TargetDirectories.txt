@@ -1,3 +1,0 @@
-/home/seed/Computer Graphics/pa4/build/CMakeFiles/rebuild_cache.dir
-/home/seed/Computer Graphics/pa4/build/CMakeFiles/edit_cache.dir
-/home/seed/Computer Graphics/pa4/build/CMakeFiles/BezierCurve.dir
