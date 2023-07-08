@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/seed/GAMES-101/pa7/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/main.cpp.o -c /home/seed/GAMES-101/pa7/main.cpp",
+  "file": "/home/seed/GAMES-101/pa7/main.cpp"
+},
+{
+  "directory": "/home/seed/GAMES-101/pa7/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/Vector.cpp.o -c /home/seed/GAMES-101/pa7/Vector.cpp",
+  "file": "/home/seed/GAMES-101/pa7/Vector.cpp"
+},
+{
+  "directory": "/home/seed/GAMES-101/pa7/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /home/seed/GAMES-101/pa7/Scene.cpp",
+  "file": "/home/seed/GAMES-101/pa7/Scene.cpp"
+},
+{
+  "directory": "/home/seed/GAMES-101/pa7/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/BVH.cpp.o -c /home/seed/GAMES-101/pa7/BVH.cpp",
+  "file": "/home/seed/GAMES-101/pa7/BVH.cpp"
+},
+{
+  "directory": "/home/seed/GAMES-101/pa7/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /home/seed/GAMES-101/pa7/Renderer.cpp",
+  "file": "/home/seed/GAMES-101/pa7/Renderer.cpp"
+}
+]
