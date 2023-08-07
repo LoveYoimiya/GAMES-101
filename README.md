@@ -1,2 +1,2 @@
 # GAMES-101
-the homeworks of GAMES-101（for references only)
+GAMES-101作业（仅供参考)
