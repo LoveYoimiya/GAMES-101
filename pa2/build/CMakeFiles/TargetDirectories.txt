@@ -1,3 +1,0 @@
-/home/seed/Computer Graphics/pa2/build/CMakeFiles/rebuild_cache.dir
-/home/seed/Computer Graphics/pa2/build/CMakeFiles/edit_cache.dir
-/home/seed/Computer Graphics/pa2/build/CMakeFiles/Rasterizer.dir
